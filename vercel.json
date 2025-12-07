@@ -1,0 +1,9 @@
+{
+  "redirects": [
+    {
+      "source": "/",
+      "destination": "https://api.whatsapp.com/send?phone=5492235761997&text=Hola%20quiero%20info",
+      "permanent": true
+    }
+  ]
+}
